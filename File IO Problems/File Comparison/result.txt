@@ -1,0 +1,12 @@
+Content in file 1 : The quick brown fox jumps over the lazy dog.
+Content in file 2 : The quick brown fox jumps over the sleepy dog.
+
+Content in file 1 : Python is a great programming language.
+Content in file 2 : Python is an amazing programming language.
+
+Content in file 1 : Artificial Intelligence is the future.
+Content in file 2 : AI is the future.
+
+Content in file 1 : Data Science is interesting.
+Content in file 2 : Data Science is fascinating.
+

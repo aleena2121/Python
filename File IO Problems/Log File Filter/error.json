@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-04-02 10:17:12",
+        "level": "ERROR",
+        "message": "Failed to connect to the database."
+    },
+    {
+        "timestamp": "2025-04-02 10:20:11",
+        "level": "ERROR",
+        "message": "Unauthorized access attempt detected."
+    },
+    {
+        "timestamp": "2025-04-02 10:25:50",
+        "level": "ERROR",
+        "message": "Application crashed unexpectedly."
+    }
+]

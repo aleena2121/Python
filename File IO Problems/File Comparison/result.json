@@ -1,0 +1,18 @@
+[
+    {
+        "File 1": "The quick brown fox jumps over the lazy dog.",
+        "File 2": "The quick brown fox jumps over the sleepy dog."
+    },
+    {
+        "File 1": "Python is a great programming language.",
+        "File 2": "Python is an amazing programming language."
+    },
+    {
+        "File 1": "Artificial Intelligence is the future.",
+        "File 2": "AI is the future."
+    },
+    {
+        "File 1": "Data Science is interesting.",
+        "File 2": "Data Science is fascinating."
+    }
+]

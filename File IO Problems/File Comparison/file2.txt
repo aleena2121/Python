@@ -1,0 +1,4 @@
+The quick brown fox jumps over the sleepy dog.
+Python is an amazing programming language.
+AI is the future.
+Data Science is fascinating.
