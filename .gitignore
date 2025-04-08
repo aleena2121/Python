@@ -1,6 +1,8 @@
-my project/
 __pycache__/
 large-file-download-test-master/
 merged.txt
 merged2.txt
 files.py
+Practice/
+merge_files.txt
+merge_large_files.py
