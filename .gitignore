@@ -6,3 +6,4 @@ files.py
 Practice/
 merge_files.txt
 merge_large_files.py
+.pytest_cache/

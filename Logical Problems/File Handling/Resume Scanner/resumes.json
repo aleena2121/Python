@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Leslie Roberts",
+        "email": "kelly77@example.net",
+        "content": "Have knowledge of AWS."
+    },
+    {
+        "name": "Paul Pierce",
+        "email": "duffywilliam@example.org",
+        "content": "Have knowledge of Azure, Machine Learning, Data Analysis, Pandas, NumPy, Git."
+    },
+    {
+        "name": "Jason Watson",
+        "email": "yrodriguez@example.com",
+        "content": "Have knowledge of Java, C++, JavaScript, HTML, CSS, SQL, Django, Flask, React, Angular, Node.js, Docker."
+    },
+    {
+        "name": "Samuel Nguyen",
+        "email": "gregory10@example.org",
+        "content": "Have knowledge of Python, Java, C++, JavaScript, HTML, CSS, SQL, Django, Flask, React."
+    },
+    {
+        "name": "Robert Murphy",
+        "email": "baldwinann@example.org",
+        "content": "Have knowledge of Django, Flask, React, Angular, Node.js, Docker, Kubernetes, AWS, GCP, Azure, Machine Learning, Data Analysis, Pandas."
+    },
+    {
+        "name": "Katherine Lloyd",
+        "email": "michaeldyer@example.net",
+        "content": "Have knowledge of AWS, GCP, Azure, Machine Learning, Data Analysis, Pandas, NumPy, Git, CI/CD."
+    },
+    {
+        "name": "Edward Ross",
+        "email": "brandonramos@example.net",
+        "content": "Have knowledge of ."
+    },
+    {
+        "name": "Dawn Gonzalez",
+        "email": "denise50@example.net",
+        "content": "Have knowledge of SQL, Django, Flask, React, Angular, Node.js, Docker, Kubernetes, AWS, GCP."
+    },
+    {
+        "name": "Noah Matthews",
+        "email": "brownaustin@example.net",
+        "content": "Have knowledge of Python, Java, C++, JavaScript, HTML, CSS, SQL, Django, Flask."
+    },
+    {
+        "name": "William Vazquez",
+        "email": "sburns@example.net",
+        "content": "Have knowledge of Django, Flask, React, Angular, Node.js, Docker, Kubernetes, AWS, GCP, Azure, Machine Learning, Data Analysis, Pandas."
+    }
+]
