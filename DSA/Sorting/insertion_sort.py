@@ -1,6 +1,6 @@
 def insertion_sort(arr):
     """
-    This function performs selection sort on the given array
+    This function performs insertion sort on the given array
     """
     for i in range(1,len(arr)):
         key = arr[i]

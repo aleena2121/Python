@@ -14,15 +14,15 @@ def print_linked_list(head):
 
 def reverse(head):
     """
-    This functio reverses the linked list given
+    This function reverses the linked list given
     """
-    prev = None
-    curr = head
+    prev = None  # this pointer will store the reversed linked list, initially None
+    curr = head  # keeps track of the current node in list
 
     while curr is not None:
-        next = curr.next
-        curr.next = prev
-        prev = curr
+        next = curr.next  # stores next node
+        curr.next = prev  # reverses nodes
+        prev = curr 
         curr = next
     return prev
 
